@@ -6,3 +6,5 @@ let's go
 let's go
 checking stage process
 test-1
+stash test-1-2-3
+stash 007 007
