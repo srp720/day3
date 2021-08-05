@@ -6,7 +6,12 @@ let's go
 let's go
 checking stage process
 test-1
+<<<<<<< Updated upstream
 stash test-1-2-3
 stash 007 007
 test-2 for stash let's stash the new change
 pulling afterwards
+=======
+test-2 for stash let's stash the new change
+pulling afterwards
+>>>>>>> Stashed changes
