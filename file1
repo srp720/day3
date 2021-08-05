@@ -8,3 +8,5 @@ checking stage process
 test-1
 stash test-1-2-3
 stash 007 007
+test-2 for stash let's stash the new change
+pulling afterwards
